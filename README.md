@@ -16,3 +16,18 @@ Good for nominal and ordinal categorical data.
 ### Bivariate Line Chart
 `df.plot.line()`
 Good for ordinal categorical and interval data.
+
+# Multivariate plotting
+
+### Multivariate Scatter Plot    
+`df.plot.scatter()`   
+    
+### Grouped Box Plot    
+`df.plot.box()`    
+
+### Heatmap    
+`sns.heatmap`    
+    
+### Parallel Coordinates    
+`pd.plotting.parallel_coordinates` 
+
