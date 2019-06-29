@@ -17,6 +17,16 @@ Good for nominal and ordinal categorical data.
 `df.plot.line()`
 Good for ordinal categorical and interval data.
 
+# Faceting with seaborn
+
+## Facet Grid	
+`sns.FacetGrid()`	
+Good for data with at least two categorical variables.		
+
+## Pair Plot	
+`sns.pairplot()`
+Good for exploring most kinds of data.	
+
 # Multivariate plotting
 
 ### Multivariate Scatter Plot    
