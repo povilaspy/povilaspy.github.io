@@ -41,3 +41,16 @@ Good for exploring most kinds of data.
 ### Parallel Coordinates    
 `pd.plotting.parallel_coordinates` 
 
+# Plotly
+### Scatter Plot
+`go.Scatter()`
+
+### Choropleth
+`go.Choropleth()`
+
+### Heatmap
+`go.Heatmap()`
+
+### Surface Plot
+`go.Surface()`
+
